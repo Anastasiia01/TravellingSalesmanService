@@ -297,6 +297,7 @@ namespace TSGAMT2010
 
         private void timer2_Tick(object sender, EventArgs e)
         {
+            /*
             lock (lockobj)
             {
                 try
@@ -379,7 +380,7 @@ namespace TSGAMT2010
                 {
                     MessageBox.Show(ex.Message);
                 }
-            }
+            }*/
         }
 
         private void btnStopThreads_Click(object sender, EventArgs e)
@@ -407,7 +408,7 @@ namespace TSGAMT2010
                     "\n or from the TSGA(simple threaded) map, capture  points");
                 return;
             }
-            int i = 0;
+            //int i = 0;
             if (opt2.Checked == true)
                 numThreads = 2;
             if (opt3.Checked == true)
@@ -415,6 +416,9 @@ namespace TSGAMT2010
             if (opt4.Checked == true)
                 numThreads = 4;
 
+            TSGAClient tSGAClient = new TSGAClient();
+            tSGAClient.CallRunGA(PointsList, numThreads);
+            /*
             GAs = new TSGA[numThreads];
             TGAs = new Thread[numThreads];
 
@@ -446,7 +450,7 @@ namespace TSGAMT2010
             //---- user interface continues to show updates
             thXchg = new Thread(new ThreadStart(this.ExchangeData));
             Thread.Sleep(100);
-            thXchg.Start();
+            thXchg.Start();*/
         }
 
         void ExchangeData()

@@ -1,0 +1,7 @@
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGALib\bin\Debug\TSGALib.dll.config
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGALib\bin\Debug\TSGALib.dll
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGALib\bin\Debug\TSGALib.pdb
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGALib\obj\Debug\TSGALib.csproj.CoreCompileInputs.cache
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGALib\obj\Debug\TSGALib.dll
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGALib\obj\Debug\TSGALib.pdb
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGALib\obj\Debug\TSGALib.csprojAssemblyReference.cache

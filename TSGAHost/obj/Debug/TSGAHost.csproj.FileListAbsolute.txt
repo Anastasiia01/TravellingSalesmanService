@@ -1,0 +1,11 @@
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGAHost\bin\Debug\TSGAHost.exe.config
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGAHost\bin\Debug\TSGAHost.exe
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGAHost\bin\Debug\TSGAHost.pdb
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGAHost\bin\Debug\TSGALib.dll
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGAHost\bin\Debug\TSGALib.pdb
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGAHost\bin\Debug\TSGALib.dll.config
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGAHost\obj\Debug\TSGAHost.csprojAssemblyReference.cache
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGAHost\obj\Debug\TSGAHost.csproj.CoreCompileInputs.cache
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGAHost\obj\Debug\TSGAHost.csproj.CopyComplete
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGAHost\obj\Debug\TSGAHost.exe
+C:\Users\anast\Documents\_Spring_2021\Parallel_Computing\TSGAMT2010\TSGAHost\obj\Debug\TSGAHost.pdb
